@@ -1,0 +1,7 @@
+kindle-settings/
+corpus/
+cookie*.txt
+*.sdr/
+*.epub
+*.part
+.DS_Store
